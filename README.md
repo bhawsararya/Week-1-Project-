@@ -4,8 +4,8 @@
 This project focuses on analyzing environmental data to understand pollution patterns and support monitoring efforts. The goal is to explore a dataset related to air, water, or soil pollution and perform initial data analysis to uncover insights.
 
 ## 📊 Dataset Used
-**Dataset Name:** [Insert Dataset Name]  
-**Source:** [Insert Kaggle URL]  
+**Dataset Name:** Indoor Air Quality Monitoring Dataset
+**Source:** https://www.kaggle.com/datasets/hemanthkarnati/indoor-air-quality-dataset 
 **Description:** This dataset contains measurements of environmental pollutants such as PM2.5, NOx, CO, and other relevant indicators collected over time across various locations.
 
 ## 🧪 Steps Performed
